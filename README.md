@@ -14,13 +14,11 @@ It's to explain concepts in my own words and build a reference I'll use througho
 
 - Networking
 - Cybersecurity
-- Linux
 - Cloud
-- Docker
-- n8n Automation
+- Automation
 - Programming
-- Labs
-- Projects
+- AI 
+
 
 ---
 
